@@ -2,7 +2,7 @@
 
 **Họ tên / nhóm:** Dinh Van Binh / 2A202602830
 
-**Commit:** 8f2ae1b817a846954fceb17393b4418a58a4dc79 (code nền đã push; báo cáo bổ sung cần được commit khi chốt nộp)
+**Commit:** 87aca9a676b24595f266a9758e8c812376055a45 (commit bài hoàn chỉnh; commit kế tiếp chỉ cập nhật dòng hash này)
 
 **Điểm tự động:** 84/88 — toàn bộ điểm public; 4 điểm SLO hidden do giảng viên chấm.
 
