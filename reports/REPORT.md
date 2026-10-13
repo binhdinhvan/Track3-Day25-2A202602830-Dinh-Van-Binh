@@ -1,7 +1,7 @@
 # Lab 25B — Game Day Report
 
 **Họ tên / nhóm:** Dinh Van Binh / 2A202602830  
-**Commit:** điền sau khi commit  
+**Commit:** da30845
 **Điểm tự động:** 84/88
 
 ## 1. Kết quả Game Day
